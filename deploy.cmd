@@ -1,3 +1,4 @@
+dcd webapp1
 nuget restore
 REM Compilamos el proyecto web
 "%MSBUILD_PATH%" "%DEPLOYMENT_SOURCE%\WebApp1\WebApp1\WebApp1.csproj"
